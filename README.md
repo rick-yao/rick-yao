@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rick-yao)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=rick-yao&theme=minimal" />
+</div>
