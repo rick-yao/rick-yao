@@ -1,2 +1,2 @@
 ### Hi there 👋
-This is Rick, I am a Student studying FrontEnd Engineer and currently working on React&TS. Feel free to reach me at abneryaoo@gmail.com.  
+This is Rick, I am a FrontEnd Engineer and currently working on React&TS. Feel free to reach me at abneryaoo@gmail.com.  
